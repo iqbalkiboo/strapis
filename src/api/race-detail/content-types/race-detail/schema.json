@@ -1,0 +1,110 @@
+{
+  "kind": "collectionType",
+  "collectionName": "race_details",
+  "info": {
+    "singularName": "race-detail",
+    "pluralName": "race-details",
+    "displayName": "Race Detail",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "race_link": {
+      "type": "string"
+    },
+    "overview_title": {
+      "type": "string"
+    },
+    "video_url": {
+      "type": "string"
+    },
+    "timeline_date1": {
+      "type": "date"
+    },
+    "timeline2_date": {
+      "type": "date"
+    },
+    "timeline3_date": {
+      "type": "date"
+    },
+    "timeline4_date": {
+      "type": "date"
+    },
+    "timeline5_date": {
+      "type": "date"
+    },
+    "timeline6_date": {
+      "type": "date"
+    },
+    "timeline7_date": {
+      "type": "date"
+    },
+    "timeline8_date": {
+      "type": "date"
+    },
+    "timeline9_date": {
+      "type": "date"
+    },
+    "timeline10_date": {
+      "type": "date"
+    },
+    "timeline11_date": {
+      "type": "date"
+    },
+    "timeline12_date": {
+      "type": "date"
+    },
+    "timeline1": {
+      "type": "richtext"
+    },
+    "timeline2": {
+      "type": "richtext"
+    },
+    "timeline3": {
+      "type": "richtext"
+    },
+    "timeline4": {
+      "type": "richtext"
+    },
+    "timeline5": {
+      "type": "richtext"
+    },
+    "timeline6": {
+      "type": "richtext"
+    },
+    "timeline7": {
+      "type": "richtext"
+    },
+    "timeline8": {
+      "type": "richtext"
+    },
+    "timeline9": {
+      "type": "richtext"
+    },
+    "timeline10": {
+      "type": "richtext"
+    },
+    "timeline11": {
+      "type": "richtext"
+    },
+    "timeline12": {
+      "type": "richtext"
+    },
+    "timeline_title": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

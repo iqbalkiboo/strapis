@@ -1,0 +1,108 @@
+{
+  "kind": "collectionType",
+  "collectionName": "race_roadmaps",
+  "info": {
+    "singularName": "race-roadmap",
+    "pluralName": "race-roadmaps",
+    "displayName": "Race Roadmap",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "file1_title": {
+      "type": "string"
+    },
+    "file1": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "files",
+        "images"
+      ]
+    },
+    "file2_title": {
+      "type": "string"
+    },
+    "file2": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "file3_title": {
+      "type": "string"
+    },
+    "file3": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "files",
+        "images"
+      ]
+    },
+    "file4_title": {
+      "type": "string"
+    },
+    "file4": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "file5_title": {
+      "type": "string"
+    },
+    "file5": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "file6_title": {
+      "type": "string"
+    },
+    "file6": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "file7_title": {
+      "type": "string"
+    },
+    "file7": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "race_link": {
+      "type": "string"
+    }
+  }
+}

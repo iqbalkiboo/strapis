@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lives",
+  "info": {
+    "singularName": "live",
+    "pluralName": "lives",
+    "displayName": "live",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "video_live": {
+      "type": "string"
+    },
+    "video_title": {
+      "type": "string"
+    }
+  }
+}
